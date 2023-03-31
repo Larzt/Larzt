@@ -3,9 +3,13 @@
   <h1 align="center">Hi 👋🏽, I'm Larzt</h1>
 </div>
 
-## 👨🏽‍💻 About Me :
-- Ask me about **C++, JavaScript, Assemble**
-- I'm currently learning **Computer Engineering**
+<div align="left">
+  <h2>
+  👨🏽‍💻 About Me :<br>
+  - I'm currently learning Computer Engineering<br>
+  - Ask me about C++, JavaScript, Assembly (mips32), Unity
+  </h2>
+</div>
 
 <div align="left">
   <h3>⛏ Lenguages and Tools :</h3>
