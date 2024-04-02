@@ -7,7 +7,7 @@
   <h2>
   👨🏽‍💻 About Me :<br>
   - I'm currently learning Computer Engineering<br>
-  - Ask me about C++, JavaScript, Assembly (mips32), Unity
+  - Ask me about C++, JavaScript, TypeScript, Assembly (mips32), Unity
   </h2>
 </div>
 
