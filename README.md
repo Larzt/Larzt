@@ -7,7 +7,7 @@
   <h2>
   👨🏽‍💻 About Me :<br>
   - I'm currently learning Computer Engineering<br>
-  - Ask me about C++, JavaScript, TypeScript, Assembly (mips32), Unity
+  - Ask me about C++, C#, JavaScript, TypeScript, React & Native, Expo, NodeJS, Assembly (mips32), Unity
   </h2>
 </div>
 
@@ -15,6 +15,15 @@
   <h3>⛏ Lenguages and Tools :</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Moongose"  alt="Moongose" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS"  alt="NextJS" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"  alt="NodeJS" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog"  alt="Prolog" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
