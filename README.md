@@ -12,7 +12,7 @@
 </div>
 
 <div align="left">
-  <h3>⛏ Lenguages and Tools :</h3>
+  <h3>⛏ Languages and Tools :</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">&nbsp;
@@ -31,6 +31,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="ESP32" alt="ESP32" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/espressif/espressif-original.svg" title="ESP-IDF" alt="ESP-IDF" width="40" height="40">&nbsp;
   </div>
 </div>
 
