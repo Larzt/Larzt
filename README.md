@@ -1,50 +1,72 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
-  <h1 align="center">Hi 👋🏽, I'm Larzt</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="160">
+  <h1>Hi 👋🏽, I'm Larzt</h1>
+  <p><b>Computer Engineer · Robotics MSc student · Indie developer</b></p>
+
+  <a href="https://alejandrorm.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://appstride.org"><img src="https://img.shields.io/badge/Stride-appstride.org-4c1?style=for-the-badge" alt="Stride"></a>
 </div>
 
-<div align="left">
-  <h2>
-  👨🏽‍💻 About Me :<br>
-  - I'm currently learning Computer Engineering<br>
-  - Ask me about C++, C#, JavaScript, TypeScript, React & Native, Expo, NodeJS, Assembly (mips32), Unity
-  </h2>
+---
+
+## 👨🏽‍💻 About me
+
+- 🎓 **Computer Engineering** graduate — Universidad de La Laguna (Web Development & Systems track)
+- 🤖 Currently studying the **MSc in Industrial Computing and Robotics** (MUIIR, ULL/UDC), **Robotics specialization**
+- 💼 Former **Frontend Developer & Gameplay Programmer** at Astrava Entertainment
+- 🧩 Full-stack internship at **Kaizten Analytics** (Vue 3 + TypeScript + Spring Boot, hexagonal architecture)
+- 🚀 Building software and hardware under my indie brand **[Stride](https://appstride.org)**
+- 🌋 Based in Tenerife, Canary Islands
+
+## 🔭 What I'm working on
+
+| Project | Description | Stack |
+|---|---|---|
+| 🦾 **L-ONE** | Desktop robotic arm adapted to generic electronics | ESP32 · C++ |
+| ✋ **URH** | Webcam hand-gesture & sign-language recognition driving a robotic hand | Python · ESP32 |
+| 🥗 **[Focus](https://focus.appstride.org)** | Nutrition tracking PWA | Vue · TypeScript |
+| ☁️ **Stride Cloud** | Self-hosted cloud platform | Go · Vue 3 · Raspberry Pi 5 |
+| 📝 **Abyss** | Frameless desktop notes widget for Linux | C++ · Qt6 · KDE/Wayland |
+| 📦 **Corredor** | 3D roguelike incremental courier game | Godot |
+
+## ⛏ Tech stack
+
+**🤖 Robotics & embedded**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="ESP32 / Embedded C" alt="ESP32 / Embedded C" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">&nbsp;
 </div>
 
-<div align="left">
-  <h3>⛏ Languages and Tools :</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Moongose"  alt="Moongose" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJS"  alt="NextJS" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"  alt="NodeJS" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog"  alt="Prolog" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="Bun" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="ESP32" alt="ESP32" width="40" height="40">&nbsp;
-  </div>
+**🌐 Web & backend**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React / React Native" alt="React / React Native" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
 </div>
 
-<!-- ## 📊 My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Larzt&theme=dark&hide_border=true&border_radius=25&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats
+**🎮 Game dev & desktop**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40">&nbsp;
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larzt&show_icons=true&theme=radical
+## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larzt&theme=tokyoknight)](https://github.com/Larzt/github-readme-stats) -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Larzt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larzt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</div>
