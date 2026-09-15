@@ -4,7 +4,6 @@
   <p><b>Computer Engineer · Robotics MSc student · Indie developer</b></p>
 
   <a href="https://alejandrorm.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
-  <a href="https://appstride.org"><img src="https://img.shields.io/badge/Stride-appstride.org-4c1?style=for-the-badge" alt="Stride"></a>
 </div>
 
 ---
@@ -12,10 +11,9 @@
 ## 👨🏽‍💻 About me
 
 - 🎓 **Computer Engineering** graduate — Universidad de La Laguna (Web Development & Systems track)
-- 🤖 Currently studying the **MSc in Industrial Computing and Robotics** (MUIIR, ULL/UDC), **Robotics specialization**
+- 🤖 Currently studying the **MSc in Industrial Computing and Robotics** (ULL, UDC), **Robotics specialization**
 - 💼 Former **Frontend Developer & Gameplay Programmer** at Astrava Entertainment
 - 🧩 Full-stack internship at **Kaizten Analytics** (Vue 3 + TypeScript + Spring Boot, hexagonal architecture)
-- 🚀 Building software and hardware under my indie brand **[Stride](https://appstride.org)**
 - 🌋 Based in Tenerife, Canary Islands
 
 ## 🔭 What I'm working on
@@ -23,11 +21,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🦾 **L-ONE** | Desktop robotic arm adapted to generic electronics | ESP32 · C++ |
-| ✋ **URH** | Webcam hand-gesture & sign-language recognition driving a robotic hand | Python · ESP32 |
-| 🥗 **[Focus](https://focus.appstride.org)** | Nutrition tracking PWA | Vue · TypeScript |
 | ☁️ **Stride Cloud** | Self-hosted cloud platform | Go · Vue 3 · Raspberry Pi 5 |
-| 📝 **Abyss** | Frameless desktop notes widget for Linux | C++ · Qt6 · KDE/Wayland |
-| 📦 **Corredor** | 3D roguelike incremental courier game | Godot |
+| 📝 **[Abyss](https://github.com/Larzt/Abyss)** | Frameless desktop notes widget for Linux · [![Repo](https://img.shields.io/badge/-source-181717?logo=github&logoColor=white)](https://github.com/Larzt/Abyss) | C++ · Qt6 · KDE/Wayland |
 
 ## ⛏ Tech stack
 
